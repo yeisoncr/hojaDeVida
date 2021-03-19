@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background: #f1f1f1;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    background-color: teal;
+   
+}
+
+.menu li {
+    padding: 20px 15px;
+    display: inline-block;
+    white-space: nowrap;
+    margin-right: 80px;
+   
+}
+
+.logo {
+    position: relative;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.item {
+    position: relative;
+    float: right; 
+}
+
+
+
+
